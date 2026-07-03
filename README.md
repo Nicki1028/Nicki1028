@@ -69,23 +69,26 @@ A lightweight Dependency Injection Container implemented from scratch using Refl
 
 **Highlights**
 
-- Constructor Injection
-- Recursive Dependency Resolution
-- Singleton / Transient Lifetime
-- Auto Registration
-- IEnumerable<T> Resolution
-- MVP Integration
+- Built a lightweight Dependency Injection Container from scratch using **Reflection** and **Constructor Injection** for automatic dependency injection.
+- Implemented **Recursive Dependency Resolution** to recursively construct complete dependency graphs at runtime.
+- Implemented **Attribute-based Auto Registration** to discover and register services through Reflection with minimal configuration.
+- Supports **`IEnumerable<T>` Resolution** for resolving multiple implementations of the same service interface.
+- Provides `PresenterFactory` and `ComponentFactory` to integrate the **MVP architecture**, improving modularity and reducing coupling between the UI and business logic.
 
 ➡️ Repository:
 https://github.com/Nicki1028/DIContainer.git
 
 ---
 ### 🔹 CostTracker
-Expense Tracking System developed with ASP.NET Core & Angular.
 
-- RESTful API
-- SQL Server
-- Clean Architecture
+A full-stack expense tracking system built with **ASP.NET Core**, **Angular**, and **SQL Server**, following a layered architecture for maintainable and scalable application development.
+
+**Highlights**
+
+- Built a RESTful backend using **ASP.NET Core Web API** with clear separation between frontend and backend.
+- Developed a modern **Angular** SPA for expense tracking and financial management.
+- Using **SQL Server** for efficient data access and persistence.
+- Designed a modular architecture with reusable services and maintainable business logic.
 
 ➡️ Repository:
 https://github.com/Nicki1028/CostTracker.git
