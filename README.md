@@ -47,6 +47,22 @@ Git  • GitHub • Swagger • Postman
 ---
 
 # 🌟 Featured Projects
+
+### 🔹 AI-Driven Restaurant Ordering System
+
+An intelligent restaurant ordering system integrating AI-assisted decision making, Strategy Pattern, and modular architecture for flexible order processing and discount management.
+
+**Highlights**
+- AI-assisted discount recommendation using Gemini API to determine the optimal promotion strategy.
+- Reflection-based AI Agent for dynamic function discovery and tool invocation.
+- Implemented Strategy Pattern to encapsulate multiple discount rules and improve extensibility.
+- Event-driven architecture separating order processing, discount calculation, and UI rendering.
+- Externalized business rules using JSON configuration, allowing menus and promotional campaigns to be updated without modifying application code.
+
+➡️ Repository:
+https://github.com/Nicki1028/POS-AI.git
+
+---
 ### 🔹 Lightweight DI Container
 
 A lightweight Dependency Injection Container implemented from scratch using Reflection and Constructor Injection.
