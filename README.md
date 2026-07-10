@@ -87,7 +87,7 @@ A full-stack expense tracking system built with **ASP.NET Core**, **Angular**, a
 
 - Built a RESTful backend using **ASP.NET Core Web API** with clear separation between frontend and backend.
 - Developed a modern **Angular** SPA for expense tracking and financial management.
-- Using **SQL Server** for efficient data access and persistence.
+- Implemented data access using **Entity Framework Core with SQL Server** for efficient data persistence.
 - Designed a modular architecture with reusable services and maintainable business logic.
 
 ➡️ Repository:
